@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RainIt</string>
+    <string name="title">You Have</string>
+    <string name="cashValue">$0</string>
+    <string name="button">Rain It Cash</string>
+    <string name="show_tag">Show Tag</string>
+</resources>
